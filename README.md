@@ -1,13 +1,23 @@
 MovieNow/
+
 ├── backend/
+
 │ ├── backend.py
+
 │ ├── ratings.py
+
 │ ├── requirements.txt
+
 │ └── .env
+
 └── frontend/
+
 ├── src/
+
 │ └── App.tsx
+
 ├── package.json
+
 └── vite.config.ts
 
 ## Setup and Running the Application
